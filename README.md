@@ -7,5 +7,12 @@ Services used:
   - Github actions
   - Github pages
 
-- Wordpress
-  - TODO: @Niklas
+- for the website
+  - Azure
+    - Resource group
+    - App Service (php server) 
+    - Front Door and CDN profiles 
+    - Endpoint 
+    - Azure Database for MySQL single server 
+    - Storage account 
+    
