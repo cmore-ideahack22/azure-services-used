@@ -1,14 +1,13 @@
 # azure-services-used
 List of azure services used for the ideahack hackathon 2022. Live-page: [here](https://cmore-ideahack22.github.io/azure-services-used/)
 
-Services used:
+Azure Services used:
 - Github
   - Web Interface
   - Github actions
   - Github pages
 
-- for the website
-  - Azure
+- Website
     - Resource group
     - App Service (php server) 
     - Front Door and CDN profiles 
@@ -23,9 +22,10 @@ Services used:
   - Log Analytics workspace
   - Storage Account
   - Application Insights
+  - 
   
   
-- Misc
+- Others
   - Endpoint
   - Key Vault x3
   - App Service Plan
