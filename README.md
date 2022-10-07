@@ -26,18 +26,18 @@ Azure Services used:
   
   
 - Others
-  - Endpoint
+  - ##Endpoint
   - Key Vault x3
-  - App Service Plan
+  - ##App Service Plan
   - Virtual Network
   - Virtual Machine
   - Storage Account x3
-  - Azure Database for MySQL single server
-  - Azure Database for MySQL flexible server
+  - ##Azure Database for MySQL single server
+  - ##Azure Database for MySQL flexible server
   - Recovery Services vault
   - Container registry
   - Azure Machine Learning workspace
-  - Container instances x3
+  - ##Container instances x3
   - Disk
   - Front Door and CDN profiles
   - Load Balancer
@@ -45,3 +45,4 @@ Azure Services used:
   - Managed Interface
   - Public IP address x3
   - SSH key
+  - App Service Certificate
