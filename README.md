@@ -13,7 +13,7 @@ Azure Services used:
     - Front Door and CDN profiles 
     - Endpoint 
     - Azure Database for MySQL single server 
-    - Storage account 
+    - Storage account
     
 - ML
   - Language understanding
@@ -22,8 +22,12 @@ Azure Services used:
   - Log Analytics workspace
   - Storage Account
   - Application Insights
-  - 
-  
+  - Azure ML Notebooks
+  - Azure ML AutoML
+  - Azure ML Compute
+  - Azure ML Compute
+  - Azure ML Datastores
+  - Cosmos DB
   
 - Others
   - ##Endpoint
