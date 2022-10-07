@@ -1,7 +1,7 @@
-# azure-services-used
-List of azure services used for the ideahack hackathon 2022. Live-page: [here](https://cmore-ideahack22.github.io/azure-services-used/)
+# c-more azure-services-used
+List of azure services used for the ideahack hackathon 2022 of team `cmore`. Live-page: [here](https://cmore-ideahack22.github.io/azure-services-used/)
 
-Azure Services used:
+Azure Services used (possible out of date):
 - Github
   - Web Interface
   - Github actions
